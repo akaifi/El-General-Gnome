@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="633"
+     inkscape:window-width="683"
+     inkscape:window-height="711"
      id="namedview67"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="-0.5202108"
+     inkscape:cx="20.704327"
      inkscape:cy="12.968927"
-     inkscape:window-x="0"
-     inkscape:window-y="33"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-0" />
+     inkscape:window-x="683"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4450-6" />
   <defs
      id="defs4">
     <linearGradient
@@ -308,7 +308,7 @@
            height="3.0534282"
            width="3.0534282"
            id="rect4433"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.71755338;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.71755338;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <rect
            ry="0.5910309"
            y="754.43713"
@@ -320,16 +320,15 @@
       </g>
       <g
          id="g4450-6"
-         transform="translate(0.01293358,-8.9211641)"
-         style="fill:none">
+         transform="translate(0.01293358,-8.9211641)">
         <rect
-           ry="0.5910309"
-           y="754.50226"
-           x="547.31793"
-           height="3.0534282"
-           width="3.0534282"
+           ry="3.0534282"
+           y="760.38391"
+           x="547.49188"
+           height="6.1068563"
+           width="6.1068563"
            id="rect4433-5"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.71755338;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.71755338;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <rect
            ry="0.5910309"
            y="754.43713"
