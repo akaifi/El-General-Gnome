@@ -7,11 +7,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg3085">
+   id="svg3085"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="applications-chat-panel.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="633"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8.0338983"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1-3" />
   <defs
      id="defs3087" />
   <metadata
@@ -27,11 +50,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
-    <path
-       d="m 7.9884896,2.0043358 c -2.4607548,0.0916 -5.0237765,1.210745 -6.3254264,3.381509 -0.97197767,1.552137 -0.87188836,3.677602 0.2774773,5.1110132 0.3236922,0.447849 0.7414765,0.812492 1.1770556,1.146216 0.5325759,0.455177 0.1860648,1.98484 -0.8881829,2.899462 C 3.5990911,14.309447 5,14 6.5143244,12.978708 c 2.6619625,0.364123 5.5699876,-0.492432 7.3233896,-2.587229 1.192155,-1.3700212 1.550186,-3.4523232 0.68283,-5.0805922 -1.09675,-2.121649 -3.526887,-3.207567 -5.8332906,-3.300884 -0.2327469,-0.0096 -0.4659063,-0.01387 -0.6987638,-0.0056 z"
-       inkscape:connector-curvature="0"
-       id="path6603"
-       style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98542732;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     transform="translate(-341.40678,-533.76898)"
+     id="layer1-34"
+     inkscape:label="Capa 1">
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-3"
+       transform="matrix(0.28650725,0,0,0.28650725,116.73905,490.74772)">
+      <path
+         d="m 785.03331,175.21109 c 0,-12.50839 12.13479,-22.68455 27.04977,-22.68455 14.91541,0 27.05008,10.17627 27.05008,22.68455 0,12.5083 -12.13467,22.68456 -27.05008,22.68456 -1.25406,0 -2.5125,-0.0727 -3.74971,-0.21598 -5.74492,3.64956 -9.98588,5.64712 -12.61441,5.93913 -0.0915,0.01 -0.18345,0.015 -0.27356,0.015 -0.8443,0 -1.62577,-0.42076 -2.09111,-1.12629 -0.52016,-0.78925 -0.55409,-1.79054 -0.0908,-2.60806 0.0215,-0.0389 2.05004,-3.7399 1.46483,-7.27511 -6.17134,-4.3187 -9.69504,-10.62997 -9.69504,-17.4133 z"
+         id="path7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssccscccs"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

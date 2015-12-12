@@ -13,10 +13,10 @@
    width="24"
    height="24"
    id="svg3778"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="gsm-3g-high.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#5c5c5c"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -24,17 +24,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="633"
      id="namedview7"
      showgrid="false"
      inkscape:zoom="9.8333333"
      inkscape:cx="12"
      inkscape:cy="12"
      inkscape:window-x="0"
-     inkscape:window-y="30"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3778" />
+     inkscape:window-y="33"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7556" />
   <defs
      id="defs3780" />
   <metadata
@@ -45,18 +45,56 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(1,4)"
-     id="layer1"
-     style="fill:#ffffff">
-    <path
-       d="M 19.015625,15 18.984375,16 21,16 21,15 z M 15,5 l 0,11 1.984375,0 0.03125,-11 z M 0.46875,8 0,9 3,12 3,16 4,16 4,12 7,9 6.625,8 z M 1.375,9 3,9 3,10.625 z M 4,9 5.625,9 4,10.625 z m 7.015625,0 -0.03125,7 L 13,16 13,9 z M 7,13 l 0,3 2,0 0,-3 z"
-       id="path3883"
-       style="color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       inkscape:connector-curvature="0" />
+     id="g7556"
+     transform="translate(-226,-93.499998)">
+    <g
+       id="g7519"
+       transform="translate(-6.9999964,-9.581197)">
+      <g
+         id="g7062-1"
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(0.8547008,0,0,0.8547008,161.32479,0.5508862)">
+        <circle
+           r="2"
+           cy="134"
+           cx="88.199997"
+           id="path7027-9"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="134"
+           cx="93.099998"
+           id="path7027-0-59"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="134"
+           cx="98"
+           id="path7027-7-8"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="134"
+           cx="102.9"
+           id="path7027-2-4"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="134"
+           cx="107.6"
+           id="path7027-5-0"
+           style="opacity:1;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.40377436,0,0,0.40377436,233.82868,-308.73431)"
+       id="object-locked-1"
+       inkscape:label="#object-locked"
+       style="fill:#0ccc77;fill-opacity:1" />
   </g>
 </svg>
