@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   id="svg3869"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="media-album-track.svg">
+  <defs
+     id="defs3871" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9318183"
+     inkscape:cx="-23.980231"
+     inkscape:cy="4.3613102"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="630"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4132"
+       originx="1"
+       originy="0.99998262" />
+    <sodipodi:guide
+       position="3,21"
+       orientation="18,0"
+       id="guide4138" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4140" />
+    <sodipodi:guide
+       position="21,3"
+       orientation="-18,0"
+       id="guide4142" />
+    <sodipodi:guide
+       position="21,21"
+       orientation="0,-18"
+       id="guide4144" />
+    <sodipodi:guide
+       position="4,20"
+       orientation="16,0"
+       id="guide4146" />
+    <sodipodi:guide
+       position="4,4"
+       orientation="0,16"
+       id="guide4148" />
+    <sodipodi:guide
+       position="20,4"
+       orientation="-16,0"
+       id="guide4150" />
+    <sodipodi:guide
+       position="11,19.999983"
+       orientation="0,-16"
+       id="guide4152" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3874">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-325,-535.36218)">
+    <g
+       id="g4150"
+       transform="translate(-1,0.99999738)">
+      <rect
+         ry="1.0125613"
+         y="537.36218"
+         x="329"
+         height="16"
+         width="16"
+         id="rect4144"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.19848719;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         inkscape:label="Capa 1"
+         id="layer1-0"
+         transform="matrix(0.62500012,0,0,0.62500012,331.65025,-107.06432)">
+        <g
+           style="fill:#ffffff;fill-opacity:1"
+           transform="translate(-412.88298,512.00351)"
+           id="layer1-4"
+           inkscape:label="Capa 1">
+          <g
+             style="fill:#ffffff;fill-opacity:1"
+             inkscape:label="Capa 1"
+             id="layer1-7"
+             transform="translate(392.57143,-514.5642)" />
+          <g
+             style="fill:#ffffff;fill-opacity:1"
+             transform="translate(341.79698,500.25245)"
+             id="g4240">
+            <g
+               style="fill:#ffffff;fill-opacity:1"
+               transform="translate(-392.98822,-511.27795)"
+               id="layer1-1"
+               inkscape:label="Capa 1"
+               inkscape:transform-center-x="5.4653607"
+               inkscape:transform-center-y="-9.4924686">
+              <g
+                 style="fill:#ffffff;fill-opacity:1"
+                 transform="translate(0.41988239,0.03484499)"
+                 inkscape:label="Capa 1"
+                 id="layer1-3">
+                <path
+                   d="m 469.81953,537.25462 c -0.5288,0.14843 -0.95454,0.73859 -0.95454,1.31193 l 0,9.08902 c -0.53625,-0.29393 -1.22493,-0.41284 -1.93893,-0.21868 -1.28842,0.35052 -2.0958,1.48341 -1.81961,2.53008 0.27617,1.04643 1.54541,1.63099 2.83382,1.28047 1.02788,-0.27953 1.73645,-1.07082 1.84942,-1.90515 l 0.0299,-8.58947 6.68184,-1.87405 0,6.77774 c -0.53621,-0.29393 -1.22494,-0.41272 -1.93891,-0.21856 -1.28842,0.35052 -2.0958,1.48341 -1.81961,2.52996 0.27618,1.04655 1.54541,1.63111 2.83381,1.28059 1.02788,-0.27966 1.73643,-1.07082 1.84944,-1.90527 l 0.0299,-11.18175 c 0,-0.43003 -0.25377,-0.75164 -0.59659,-0.81213 l -7.03981,1.90527 z"
+                   id="Music"
+                   sketch:type="MSShapeGroup"
+                   inkscape:connector-curvature="0"
+                   style="fill:#ffffff;fill-opacity:1" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
