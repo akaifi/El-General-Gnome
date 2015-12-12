@@ -15,7 +15,7 @@
    id="svg5453"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gnome-disks.svg">
+   sodipodi:docname="baobab.svg">
   <defs
      id="defs5455">
     <linearGradient
@@ -118,50 +118,6 @@
          id="stop4426" />
     </linearGradient>
     <linearGradient
-       id="linearGradient8467-7">
-      <stop
-         offset="0"
-         style="stop-color:#3ec896;stop-opacity:1"
-         id="stop8469-4" />
-      <stop
-         offset="1"
-         style="stop-color:#66d9af;stop-opacity:1"
-         id="stop8471-7" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5845">
-      <stop
-         style="stop-color:#974eb7;stop-opacity:1"
-         offset="0"
-         id="stop5847" />
-      <stop
-         id="stop5849"
-         offset="1"
-         style="stop-color:#d164ff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4298">
-      <stop
-         id="stop4300"
-         offset="0"
-         style="stop-color:#ea3c53;stop-opacity:1" />
-      <stop
-         id="stop4302"
-         offset="1"
-         style="stop-color:#fc593d;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4232">
-      <stop
-         style="stop-color:#3889e9;stop-opacity:1"
-         offset="0"
-         id="stop4234-0" />
-      <stop
-         style="stop-color:#5ea5fb;stop-opacity:1"
-         offset="1"
-         id="stop4236" />
-    </linearGradient>
-    <linearGradient
        gradientTransform="matrix(0.24841536,0,0,0.24427878,433.38377,517.17091)"
        y2="107.36093"
        x2="122.719"
@@ -203,6 +159,17 @@
        xlink:href="#linearGradient8467-7"
        inkscape:collect="always" />
     <linearGradient
+       id="linearGradient8467-7">
+      <stop
+         offset="0"
+         style="stop-color:#3ec896;stop-opacity:1"
+         id="stop8469-4" />
+      <stop
+         offset="1"
+         style="stop-color:#66d9af;stop-opacity:1"
+         id="stop8471-7" />
+    </linearGradient>
+    <linearGradient
        gradientTransform="translate(0,0.10639487)"
        gradientUnits="userSpaceOnUse"
        y2="544.72443"
@@ -233,8 +200,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.46"
-     inkscape:cx="31.824378"
-     inkscape:cy="29.831347"
+     inkscape:cx="-19.925643"
+     inkscape:cy="32.297714"
      inkscape:document-units="px"
      inkscape:current-layer="g4312"
      showgrid="false"
