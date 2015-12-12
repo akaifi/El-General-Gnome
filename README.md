@@ -1,2 +1,2 @@
-![El General preview](http://i.imgur.com/B6N6EuV.png)
+![El General preview](http://i.imgur.com/1Mq6VXn.png)
 
